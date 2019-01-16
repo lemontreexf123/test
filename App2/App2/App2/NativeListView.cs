@@ -17,5 +17,6 @@ namespace App2
             get { return (bool)GetValue(IsScrollingProperty); }
             set { SetValue(IsScrollingProperty, value); }
         }
+
     }
 }

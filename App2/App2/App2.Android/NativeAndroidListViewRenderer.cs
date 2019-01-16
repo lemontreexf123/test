@@ -34,6 +34,7 @@ namespace App2.Droid
         {
             var myList = Element as NativeListView;
             myList.IsScrolling = true;
+
         }
         
     }
